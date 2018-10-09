@@ -1,0 +1,23 @@
+commit 1c1337df2b8ee98d9c58af6c26661b7fb761f1f1
+Author: Alisa Kravtcova <alisa.kravtcova@gmail.com>
+Date:   Tue Oct 9 14:29:12 2018 +0200
+
+    some modifications
+
+commit 252a156a4d0685397a3e43427b8c37d1da97e428
+Author: Alisa Kravtcova <alisa.kravtcova@gmail.com>
+Date:   Tue Oct 9 14:19:43 2018 +0200
+
+    i do not know
+
+commit f6205f167e0b9aa1c9422ac2f862bcfe2b8724f5
+Author: Alisa Kravtcova <alisa.kravtcova@gmail.com>
+Date:   Tue Oct 9 14:11:56 2018 +0200
+
+    question about the moon
+
+commit e498ed9827e3047ff090f5bb8d1d9141a9271932
+Author: Alisa Kravtcova <alisa.kravtcova@gmail.com>
+Date:   Tue Oct 9 14:03:20 2018 +0200
+
+    Created the file mars.txt
