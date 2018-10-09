@@ -1,0 +1,4 @@
+   17  git add logFile.txt
+   18  git commit -m "created log"
+   19  git push origin master
+   20  history | tail -n 4 > gitBasics.txt
